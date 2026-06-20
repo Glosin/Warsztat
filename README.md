@@ -31,7 +31,3 @@ Prosta gra VR stworzona w Unity. Gracz pracuje w warsztacie i używa narzędzi d
 ![Zrzut ekranu 3](./screenshots/screen3.png)
 
 ![Zrzut ekranu 4](./screenshots/screen4.png)
-
-## Uwagi
-
-Jeśli chcesz, możesz podmienić powyższe pliki na własne zdjęcia i zmienić nazwy w linkach na odpowiadające im pliki.
